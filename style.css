@@ -112,7 +112,7 @@
   }
   .intro:before{
      content: '';
-     background: url(./images/1homepage.jpg) no-repeat;
+     background: url(1homepage.jpg) no-repeat;
      opacity: 0.4;
      position: absolute;
      top:0;
@@ -297,7 +297,7 @@
   /*<---Den delen jeg opplever problemet--->*/
   .intro:before{
      content: '';
-     background: url(./images/1homepage.jpg) no-repeat center center/cover;
+     background: url(1homepage.jpg) no-repeat center center/cover;
      opacity: 0.4;
      position: absolute;
      top:0;
